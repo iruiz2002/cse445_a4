@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<Hotel NearestAirport="Sky Harbor" Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
+		<Phone>602-955-6600</Phone>
+		<Address>
+			<Number>2400</Number>
+			<Street>E Missouri Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85016</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="Dallas/Fort Worth International Airport" Rating="4.5">
+		<Name>The Omni Dallas Hotel</Name>
+		<Address>
+			<Number>555</Number>
+			<Street>S Lamar St</Street>
+			<City>Dallas</City>
+			<State>TX</State>
+			<Zip>75202</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="San Francisco International Airport" Rating="4.0">
+		<Name>Hyatt Regency San Francisco</Name>
+		<Phone>415-788-1234</Phone>
+		<Address>
+			<Number>5</Number>
+			<Street>Embarcadero Center</Street>
+			<City>San Francisco</City>
+			<State>CA</State>
+			<Zip>94111</Zip>
+		</Hotel>
+
+	<Hotel NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+		<Name>Hilton Atlanta</Name>
+		<Name>Another Hilton Atlanta Name</Name>
+		<Phone>404-659-2000</Phone>
+		<Address>
+			<Number>255</Number>
+			<Street>Courtland St NE</Street>
+			<City>Atlanta</City>
+			<State>GA</State>
+			<Zip>30303</Zip>
+		</Address>
+	</Hotel>
+
+</Hotel> ```
