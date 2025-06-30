@@ -30,6 +30,7 @@
 	<Hotel NearestAirport="Dallas/Fort Worth International Airport" Rating="4.5">
 		<Name>The Omni Dallas Hotel</Name>
 		<Phone>214-744-6664</Phone>
+		<Phone>888-OMNI-HOTEL</Phone>
 		<Address>
 			<Number>555</Number>
 			<Street>S Lamar St</Street>
@@ -88,80 +89,80 @@
 			<State>IL</State>
 			<Zip>60603</Zip>
 		</Address>
-	</Hotel>
+</Hotel>
 
-	<Hotel NearestAirport="Los Angeles International Airport" Rating="4.3">
-		<Name>JW Marriott Los Angeles L.A. LIVE</Name>
-		<Phone>213-765-8600</Phone>
-		<Address>
-			<Number>900</Number>
-			<Street>W Olympic Blvd</Street>
-			<City>Los Angeles</City>
-			<State>CA</State>
-			<Zip>90015</Zip>
-		</Address>
-	</Hotel>
+<Hotel NearestAirport="Los Angeles International Airport" Rating="4.3">
+	<Name>JW Marriott Los Angeles L.A. LIVE</Name>
+	<Phone>213-765-8600</Phone>
+	<Phone>800-MARRIOTT</Phone>
+	<Address>
+		<Number>900</Number>
+		<Street>W Olympic Blvd</Street>
+		<City>Los Angeles</City>
+		<State>CA</State>
+		<Zip>90015</Zip>
+	</Address>
+</Hotel>
 
-	<Hotel NearestAirport="Miami International Airport">
-		<Name>Fontainebleau Miami Beach</Name>
-		<Phone>305-538-2000</Phone>
-		<Address>
-			<Number>4441</Number>
-			<Street>Collins Ave</Street>
-			<City>Miami Beach</City>
-			<State>FL</State>
-			<Zip>33140</Zip>
-		</Address>
-	</Hotel>
+<Hotel NearestAirport="Miami International Airport">
+	<Name>Fontainebleau Miami Beach</Name>
+	<Phone>305-538-2000</Phone>
+	<Address>
+		<Number>4441</Number>
+		<Street>Collins Ave</Street>
+		<City>Miami Beach</City>
+		<State>FL</State>
+		<Zip>33140</Zip>
+	</Address>
+</Hotel>
 
-	<Hotel NearestAirport="Logan International Airport" Rating="4.1">
-		<Name>Boston Marriott Copley Place</Name>
-		<Phone>617-236-5800</Phone>
-		<Address>
-			<Number>110</Number>
-			<Street>Huntington Ave</Street>
-			<City>Boston</City>
-			<State>MA</State>
-			<Zip>02116</Zip>
-		</Address>
-	</Hotel>
+<Hotel NearestAirport="Logan International Airport" Rating="4.1">
+	<Name>Boston Marriott Copley Place</Name>
+	<Phone>617-236-5800</Phone>
+	<Phone>800-MARRIOTT</Phone>
+	<Address>
+		<Number>110</Number>
+		<Street>Huntington Ave</Street>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zip>02116</Zip>
+	</Address>
+</Hotel>
 
-	<Hotel NearestAirport="Seattle-Tacoma International Airport">
-		<Name>Hyatt Regency Seattle</Name>
-		<Phone>206-973-1234</Phone>
-		<Phone>888-123-4567</Phone>
-		<Address>
-			<Number>808</Number>
-			<Street>Howell St</Street>
-			<City>Seattle</City>
-			<State>WA</State>
-			<Zip>98101</Zip>
-		</Address>
-	</Hotel>
+<Hotel NearestAirport="Seattle-Tacoma International Airport">
+	<Name>Hyatt Regency Seattle</Name>
+	<Phone>206-973-1234</Phone>
+	<Phone>888-123-4567</Phone>
+	<Address>
+		<Number>808</Number>
+		<Street>Howell St</Street>
+		<City>Seattle</City>
+		<State>WA</State>
+		<Zip>98101</Zip>
+	</Address>
+</Hotel>
 
-	<Hotel NearestAirport="McCarran International Airport" Rating="3.5">
-		<Name>Caesars Palace</Name>
-		<Phone>702-731-7110</Phone>
-		<Address>
-			<Number>3570</Number>
-			<Street>S Las Vegas Blvd</Street>
-			<City>Las Vegas</City>
-			<State>NV</State>
-			<Zip>89109</Zip>
-		</Address>
-	</Hotel>
+<Hotel NearestAirport="McCarran International Airport" Rating="3.5">
+	<Name>Caesars Palace</Name>
+	<Phone>702-731-7110</Phone>
+	<Address>
+		<Number>3570</Number>
+		<Street>S Las Vegas Blvd</Street>
+		<City>Las Vegas</City>
+		<State>NV</State>
+		<Zip>89109</Zip>
+	</Address>
+</Hotel>
 
-	<Hotel NearestAirport="San Diego International Airport">
-		<Name>Omni San Diego Hotel</Name>
-		<Phone>619-238-7800</Phone>
-		<Phone>800-THE-OMNI</Phone>
-		<Address>
-			<Number>675</Number>
-			<Street>L St</Street>
-			<City>San Diego</City>
-			<State>CA</State>
-			<Zip>92101</Zip>
-		</Address>
-	</Hotel>
-
-</Hotels>
+<Hotel NearestAirport="San Diego International Airport">
+	<Name>Omni San Diego Hotel</Name>
+	<Phone>619-238-7800</Phone>
+	<Phone>800-THE-OMNI</Phone>
+	<Address>
+		<Number>675</Number>
+		<Street>L St</Street>
+		<City>San Diego</City>
+		<State>CA</State>
+		<Zip>92101</Zip>
+	</Address>
+</Hotel>
