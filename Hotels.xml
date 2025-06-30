@@ -55,6 +55,7 @@
 		<Name>Hilton Atlanta</Name>
 		<Phone>404-659-2000</Phone>
 		<Phone>800-445-8667</Phone>
+		<Phone>+1-404-123-4567</Phone>
 		<Address>
 			<Number>255</Number>
 			<Street>Courtland St NE</Street>
@@ -79,6 +80,7 @@
 	<Hotel NearestAirport="O'Hare International Airport">
 		<Name>Palmer House Hilton</Name>
 		<Phone>312-726-7500</Phone>
+		<Phone>800-987-6543</Phone>
 		<Address>
 			<Number>17</Number>
 			<Street>E Monroe St</Street>
@@ -134,6 +136,31 @@
 			<City>Seattle</City>
 			<State>WA</State>
 			<Zip>98101</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="McCarran International Airport" Rating="3.5">
+		<Name>Caesars Palace</Name>
+		<Phone>702-731-7110</Phone>
+		<Address>
+			<Number>3570</Number>
+			<Street>S Las Vegas Blvd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="San Diego International Airport">
+		<Name>Omni San Diego Hotel</Name>
+		<Phone>619-238-7800</Phone>
+		<Phone>800-THE-OMNI</Phone>
+		<Address>
+			<Number>675</Number>
+			<Street>L St</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92101</Zip>
 		</Address>
 	</Hotel>
 
