@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://iruiz2002.github.io/cse445_a4/Hotels.xsd">
+
 	<Hotel NearestAirport="Sky Harbor" Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -50,8 +51,7 @@
 
 	<Hotel NearestAirport="Hartsfield-Jackson Atlanta International Airport">
 		<Name>Hilton Atlanta</Name>
-		<Name>Another Hilton Atlanta Name</Name>
-		<Phone>404-659-2000</Phone>
+		<Name>Another Hilton Atlanta Name</Name> <Phone>404-659-2000</Phone>
 		<Address>
 			<Number>255</Number>
 			<Street>Courtland St NE</Street>
