@@ -51,7 +51,8 @@
 
 	<Hotel NearestAirport="Hartsfield-Jackson Atlanta International Airport">
 		<Name>Hilton Atlanta</Name>
-		<Name>Another Hilton Atlanta Name</Name> <Phone>404-659-2000</Phone>
+		<Name>Another Hilton Atlanta Name</Name>
+		<Phone>404-659-2000</Phone>
 		<Address>
 			<Number>255</Number>
 			<Street>Courtland St NE</Street>
