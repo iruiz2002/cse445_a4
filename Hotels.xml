@@ -13,7 +13,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel NearestAirport="Phoenix Sky Harbor International Airport">
+	<Hotel Rating="4.4" NearestAirport="Phoenix Sky Harbor International Airport">
 		<Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
 		<Phone>602-955-6600</Phone>
 		<Address>
@@ -50,7 +50,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+	<Hotel Rating="4.0">
 		<Name>Hilton Atlanta</Name>
 		<Phone>404-659-2000</Phone>
 		<Phone>800-445-8667</Phone>
@@ -76,7 +76,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel NearestAirport="O'Hare International Airport">
+	<Hotel Rating="4.1" NearestAirport="O'Hare International Airport">
 		<Name>Palmer House Hilton</Name>
 		<Phone>312-726-7500</Phone>
 		<Phone>800-987-6543</Phone>
@@ -102,7 +102,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel NearestAirport="Miami International Airport">
+	<Hotel Rating="4.3" NearestAirport="Miami International Airport">
 		<Name>Fontainebleau Miami Beach</Name>
 		<Phone>305-538-2000</Phone>
 		<Address>
@@ -127,7 +127,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel NearestAirport="Seattle-Tacoma International Airport">
+	<Hotel Rating="4.2" NearestAirport="Seattle-Tacoma International Airport">
 		<Name>Hyatt Regency Seattle</Name>
 		<Phone>206-973-1234</Phone>
 		<Phone>888-123-4567</Phone>
@@ -152,7 +152,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel NearestAirport="San Diego International Airport">
+	<Hotel Rating="4.1">
 		<Name>Omni San Diego Hotel</Name>
 		<Phone>619-238-7800</Phone>
 		<Phone>800-THE-OMNI</Phone>
